@@ -1,0 +1,2 @@
+date,daily_close,daily_high,daily_low,trades,daily_volume_usd,daily_volume_tokens,daily_pnl,sentiment,sent_z,ret,ret_1d_fwd,ret_5d_fwd,pos
+1970-01-01,1.101,109004.0,4.53e-06,211224,1191187442.46,976565644.278293,10296958.943436,,,,,,0
